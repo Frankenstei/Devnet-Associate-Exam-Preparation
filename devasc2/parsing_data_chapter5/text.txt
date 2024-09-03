@@ -1,0 +1,6 @@
+Nothing is here
+This is just for test
+
+Fourth line added by python
+Fourth line added by python
+Fourth line added by python
